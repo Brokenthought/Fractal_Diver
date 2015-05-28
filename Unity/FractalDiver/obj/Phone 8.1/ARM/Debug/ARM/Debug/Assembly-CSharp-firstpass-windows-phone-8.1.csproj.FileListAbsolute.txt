@@ -1,0 +1,17 @@
+C:\Users\Nigel\Desktop\Fractal_Diver\Fractal-Diver\Unity\FractalDiver\bin\Phone 8.1\ARM\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Nigel\Desktop\Fractal_Diver\Fractal-Diver\Unity\FractalDiver\bin\Phone 8.1\ARM\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\Nigel\Desktop\Fractal_Diver\Fractal-Diver\Unity\FractalDiver\bin\Phone 8.1\ARM\Debug\Assembly-CSharp-firstpass.pri
+C:\Users\Nigel\Desktop\Fractal_Diver\Fractal-Diver\Unity\FractalDiver\obj\Phone 8.1\ARM\Debug\ARM\Debug\Assembly-CSharp-firstpass-windows-phone-8.1.csprojResolveAssemblyReference.cache
+C:\Users\Nigel\Desktop\Fractal_Diver\Fractal-Diver\Unity\FractalDiver\obj\Phone 8.1\ARM\Debug\ARM\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Nigel\Desktop\Fractal_Diver\Fractal-Diver\Unity\FractalDiver\obj\Phone 8.1\ARM\Debug\ARM\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\Nigel\Desktop\Fractal_Diver\Fractal-Diver\Unity\FractalDiver\obj\Phone 8.1\ARM\Debug\ARM\Debug\priconfig.xml
+C:\Users\Nigel\Desktop\Fractal_Diver\Fractal-Diver\Unity\FractalDiver\obj\Phone 8.1\ARM\Debug\ARM\Debug\priconfig.xml.intermediate
+C:\Users\Nigel\Desktop\Fractal_Diver\Fractal-Diver\Unity\FractalDiver\obj\Phone 8.1\ARM\Debug\ARM\Debug\layout.resfiles
+C:\Users\Nigel\Desktop\Fractal_Diver\Fractal-Diver\Unity\FractalDiver\obj\Phone 8.1\ARM\Debug\ARM\Debug\layout.resfiles.intermediate
+C:\Users\Nigel\Desktop\Fractal_Diver\Fractal-Diver\Unity\FractalDiver\obj\Phone 8.1\ARM\Debug\ARM\Debug\resources.resfiles
+C:\Users\Nigel\Desktop\Fractal_Diver\Fractal-Diver\Unity\FractalDiver\obj\Phone 8.1\ARM\Debug\ARM\Debug\resources.resfiles.intermediate
+C:\Users\Nigel\Desktop\Fractal_Diver\Fractal-Diver\Unity\FractalDiver\obj\Phone 8.1\ARM\Debug\ARM\Debug\pri.resfiles
+C:\Users\Nigel\Desktop\Fractal_Diver\Fractal-Diver\Unity\FractalDiver\obj\Phone 8.1\ARM\Debug\ARM\Debug\pri.resfiles.intermediate
+C:\Users\Nigel\Desktop\Fractal_Diver\Fractal-Diver\Unity\FractalDiver\obj\Phone 8.1\ARM\Debug\ARM\Debug\qualifiers.txt
+C:\Users\Nigel\Desktop\Fractal_Diver\Fractal-Diver\Unity\FractalDiver\obj\Phone 8.1\ARM\Debug\ARM\Debug\qualifiers.txt.intermediate
+C:\Users\Nigel\Desktop\Fractal_Diver\Fractal-Diver\Unity\FractalDiver\obj\Phone 8.1\ARM\Debug\ARM\Debug\MultipleQualifiersPerDimensionFound.txt

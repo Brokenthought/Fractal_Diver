@@ -1,0 +1,51 @@
+C:\Users\Nigel\Desktop\Mobile Project\FractalDiver\FractalDiver\bin\Store 8.1\x86\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Nigel\Desktop\Mobile Project\FractalDiver\FractalDiver\bin\Store 8.1\x86\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\Nigel\Desktop\Mobile Project\FractalDiver\FractalDiver\bin\Store 8.1\x86\Debug\Assembly-CSharp-firstpass.pri
+C:\Users\Nigel\Desktop\Mobile Project\FractalDiver\FractalDiver\obj\Store 8.1\x86\Debug\x86\Debug\Assembly-CSharp-firstpass-metro-vs2013.csprojResolveAssemblyReference.cache
+C:\Users\Nigel\Desktop\Mobile Project\FractalDiver\FractalDiver\obj\Store 8.1\x86\Debug\x86\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Nigel\Desktop\Mobile Project\FractalDiver\FractalDiver\obj\Store 8.1\x86\Debug\x86\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\Nigel\Desktop\Mobile Project\FractalDiver\FractalDiver\obj\Store 8.1\x86\Debug\x86\Debug\priconfig.xml
+C:\Users\Nigel\Desktop\Mobile Project\FractalDiver\FractalDiver\obj\Store 8.1\x86\Debug\x86\Debug\priconfig.xml.intermediate
+C:\Users\Nigel\Desktop\Mobile Project\FractalDiver\FractalDiver\obj\Store 8.1\x86\Debug\x86\Debug\layout.resfiles
+C:\Users\Nigel\Desktop\Mobile Project\FractalDiver\FractalDiver\obj\Store 8.1\x86\Debug\x86\Debug\layout.resfiles.intermediate
+C:\Users\Nigel\Desktop\Mobile Project\FractalDiver\FractalDiver\obj\Store 8.1\x86\Debug\x86\Debug\resources.resfiles
+C:\Users\Nigel\Desktop\Mobile Project\FractalDiver\FractalDiver\obj\Store 8.1\x86\Debug\x86\Debug\resources.resfiles.intermediate
+C:\Users\Nigel\Desktop\Mobile Project\FractalDiver\FractalDiver\obj\Store 8.1\x86\Debug\x86\Debug\pri.resfiles
+C:\Users\Nigel\Desktop\Mobile Project\FractalDiver\FractalDiver\obj\Store 8.1\x86\Debug\x86\Debug\pri.resfiles.intermediate
+C:\Users\Nigel\Desktop\Mobile Project\FractalDiver\FractalDiver\obj\Store 8.1\x86\Debug\x86\Debug\qualifiers.txt
+C:\Users\Nigel\Desktop\Mobile Project\FractalDiver\FractalDiver\obj\Store 8.1\x86\Debug\x86\Debug\qualifiers.txt.intermediate
+C:\Users\Nigel\Desktop\Mobile Project\FractalDiver\FractalDiver\obj\Store 8.1\x86\Debug\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Nigel\Desktop\Fractal_Diver\Unity\FractalDiver\bin\Store 8.1\x86\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Nigel\Desktop\Fractal_Diver\Unity\FractalDiver\bin\Store 8.1\x86\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\Nigel\Desktop\Fractal_Diver\Unity\FractalDiver\bin\Store 8.1\x86\Debug\Assembly-CSharp-firstpass.pri
+C:\Users\Nigel\Desktop\Fractal_Diver\Unity\FractalDiver\obj\Store 8.1\x86\Debug\x86\Debug\Assembly-CSharp-firstpass-metro-vs2013.csprojResolveAssemblyReference.cache
+C:\Users\Nigel\Desktop\Fractal_Diver\Unity\FractalDiver\obj\Store 8.1\x86\Debug\x86\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Nigel\Desktop\Fractal_Diver\Unity\FractalDiver\obj\Store 8.1\x86\Debug\x86\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\Nigel\Desktop\Fractal_Diver\Unity\FractalDiver\obj\Store 8.1\x86\Debug\x86\Debug\priconfig.xml
+C:\Users\Nigel\Desktop\Fractal_Diver\Unity\FractalDiver\obj\Store 8.1\x86\Debug\x86\Debug\priconfig.xml.intermediate
+C:\Users\Nigel\Desktop\Fractal_Diver\Unity\FractalDiver\obj\Store 8.1\x86\Debug\x86\Debug\layout.resfiles
+C:\Users\Nigel\Desktop\Fractal_Diver\Unity\FractalDiver\obj\Store 8.1\x86\Debug\x86\Debug\layout.resfiles.intermediate
+C:\Users\Nigel\Desktop\Fractal_Diver\Unity\FractalDiver\obj\Store 8.1\x86\Debug\x86\Debug\resources.resfiles
+C:\Users\Nigel\Desktop\Fractal_Diver\Unity\FractalDiver\obj\Store 8.1\x86\Debug\x86\Debug\resources.resfiles.intermediate
+C:\Users\Nigel\Desktop\Fractal_Diver\Unity\FractalDiver\obj\Store 8.1\x86\Debug\x86\Debug\pri.resfiles
+C:\Users\Nigel\Desktop\Fractal_Diver\Unity\FractalDiver\obj\Store 8.1\x86\Debug\x86\Debug\pri.resfiles.intermediate
+C:\Users\Nigel\Desktop\Fractal_Diver\Unity\FractalDiver\obj\Store 8.1\x86\Debug\x86\Debug\qualifiers.txt
+C:\Users\Nigel\Desktop\Fractal_Diver\Unity\FractalDiver\obj\Store 8.1\x86\Debug\x86\Debug\qualifiers.txt.intermediate
+C:\Users\Nigel\Desktop\Fractal_Diver\Unity\FractalDiver\obj\Store 8.1\x86\Debug\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Nigel\Desktop\Fractal_Diver\Fractal-Diver\Unity\FractalDiver\bin\Store 8.1\x86\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Nigel\Desktop\Fractal_Diver\Fractal-Diver\Unity\FractalDiver\bin\Store 8.1\x86\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\Nigel\Desktop\Fractal_Diver\Fractal-Diver\Unity\FractalDiver\bin\Store 8.1\x86\Debug\Assembly-CSharp-firstpass.pri
+C:\Users\Nigel\Desktop\Fractal_Diver\Fractal-Diver\Unity\FractalDiver\obj\Store 8.1\x86\Debug\x86\Debug\Assembly-CSharp-firstpass-metro-vs2013.csprojResolveAssemblyReference.cache
+C:\Users\Nigel\Desktop\Fractal_Diver\Fractal-Diver\Unity\FractalDiver\obj\Store 8.1\x86\Debug\x86\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Nigel\Desktop\Fractal_Diver\Fractal-Diver\Unity\FractalDiver\obj\Store 8.1\x86\Debug\x86\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\Nigel\Desktop\Fractal_Diver\Fractal-Diver\Unity\FractalDiver\obj\Store 8.1\x86\Debug\x86\Debug\priconfig.xml
+C:\Users\Nigel\Desktop\Fractal_Diver\Fractal-Diver\Unity\FractalDiver\obj\Store 8.1\x86\Debug\x86\Debug\priconfig.xml.intermediate
+C:\Users\Nigel\Desktop\Fractal_Diver\Fractal-Diver\Unity\FractalDiver\obj\Store 8.1\x86\Debug\x86\Debug\layout.resfiles
+C:\Users\Nigel\Desktop\Fractal_Diver\Fractal-Diver\Unity\FractalDiver\obj\Store 8.1\x86\Debug\x86\Debug\layout.resfiles.intermediate
+C:\Users\Nigel\Desktop\Fractal_Diver\Fractal-Diver\Unity\FractalDiver\obj\Store 8.1\x86\Debug\x86\Debug\resources.resfiles
+C:\Users\Nigel\Desktop\Fractal_Diver\Fractal-Diver\Unity\FractalDiver\obj\Store 8.1\x86\Debug\x86\Debug\resources.resfiles.intermediate
+C:\Users\Nigel\Desktop\Fractal_Diver\Fractal-Diver\Unity\FractalDiver\obj\Store 8.1\x86\Debug\x86\Debug\pri.resfiles
+C:\Users\Nigel\Desktop\Fractal_Diver\Fractal-Diver\Unity\FractalDiver\obj\Store 8.1\x86\Debug\x86\Debug\pri.resfiles.intermediate
+C:\Users\Nigel\Desktop\Fractal_Diver\Fractal-Diver\Unity\FractalDiver\obj\Store 8.1\x86\Debug\x86\Debug\qualifiers.txt
+C:\Users\Nigel\Desktop\Fractal_Diver\Fractal-Diver\Unity\FractalDiver\obj\Store 8.1\x86\Debug\x86\Debug\qualifiers.txt.intermediate
+C:\Users\Nigel\Desktop\Fractal_Diver\Fractal-Diver\Unity\FractalDiver\obj\Store 8.1\x86\Debug\x86\Debug\MultipleQualifiersPerDimensionFound.txt

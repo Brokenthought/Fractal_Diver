@@ -1,0 +1,7 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<PropertyGroup>
+		<UnityInstallationDir>E:\Unity\Editor</UnityInstallationDir>
+		<UnityWSAPlayerDir>E:\Unity\Editor\Data\PlaybackEngines\metrosupport</UnityWSAPlayerDir>
+		<UnityProjectDir>C:\Users\Nigel\Desktop\Fractal_Diver\Fractal-Diver\Unity\FractalDiver</UnityProjectDir>
+	</PropertyGroup>
+</Project>
