@@ -5,7 +5,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
-    <ProjectGuid>{9A513B19-3E02-41BF-8968-58BC58B0A6B3}</ProjectGuid>
+    <ProjectGuid>{D378C147-0ABA-4592-AB27-04F0DB138842}</ProjectGuid>
     <OutputType>AppContainerExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Template</RootNamespace>
@@ -17,7 +17,6 @@
     <ProjectTypeGuids>{76F1466A-8B6D-4E39-A767-685A06062A39};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <PackageCertificateKeyFile>..\FractalDiver.Shared\WSATestCertificate.pfx</PackageCertificateKeyFile>
     <SynthesizeLinkMetadata>true</SynthesizeLinkMetadata>
-
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|ARM'">
     <DebugSymbols>true</DebugSymbols>
@@ -85,13 +84,11 @@
     <ErrorReport>prompt</ErrorReport>
     <Prefer32Bit>true</Prefer32Bit>
   </PropertyGroup>
-
   <ItemGroup>
     <AppxManifest Include="Package.appxmanifest">
-    <SubType>Designer</SubType>
+      <SubType>Designer</SubType>
     </AppxManifest>
   </ItemGroup>
-
   <ItemGroup>
     <Content Include="Assets\AppIcon.scale-240.png">
     </Content>
@@ -114,7 +111,6 @@
     </Reference>
     <Content Include="Data\**" />
   </ItemGroup>
-
   <ItemGroup>
     <ProjectReference Include="C:/Users/Nigel/Desktop/Fractal_Diver/Fractal-Diver/Unity/FractalDiver/Assets\..\Assembly-CSharp-windows-phone-8.1.csproj">
       <Project>{868B923C-02F0-4A30-8DAC-EF535B925512}</Project>
@@ -132,27 +128,22 @@
       <Name>Microsoft Visual C++ 2013 Runtime Package for Windows</Name>
     </SDKReference>
   </ItemGroup>
-
   <ItemGroup>
-
     <Reference Include="UnityPlayer, Version=255.255.255.255, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\..\Players\WindowsPhone81\$(PlatformTarget)\$(Configuration)\UnityPlayer.winmd</HintPath>
       <Implementation>UnityPlayer.dll</Implementation>
     </Reference>
-
     <Reference Include="BridgeInterface, Version=255.255.255.255, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\..\Players\WindowsPhone81\$(PlatformTarget)\$(Configuration)\BridgeInterface.winmd</HintPath>
       <Implementation>BridgeInterface.dll</Implementation>
     </Reference>
-
     <Reference Include="UnityEngineDelegates, Version=255.255.255.255, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\..\Players\WindowsPhone81\$(PlatformTarget)\$(Configuration)\UnityEngineDelegates.winmd</HintPath>
       <Implementation>UnityEngineDelegates.dll</Implementation>
     </Reference>
-
     <Reference Include="WinRTBridge">
       <HintPath>..\..\Players\WindowsPhone81\$(PlatformTarget)\$(Configuration)\WinRTBridge.winmd</HintPath>
     </Reference>
@@ -160,17 +151,13 @@
       <HintPath>..\..\Players\WindowsPhone81\$(PlatformTarget)\$(Configuration)\UnityEngineProxy.dll</HintPath>
     </Reference>
   </ItemGroup>
-
   <PropertyGroup Condition=" '$(VisualStudioVersion)' == '' or '$(VisualStudioVersion)' &lt; '12.0' ">
     <VisualStudioVersion>12.0</VisualStudioVersion>
   </PropertyGroup>
-
   <PropertyGroup Condition=" '$(TargetPlatformIdentifier)' == '' ">
     <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
   </PropertyGroup>
-
   <Import Project="..\FractalDiver.Shared\FractalDiver.Shared.projitems" Label="Shared" />
-
   <Import Project="$(MSBuildExtensionsPath)\Microsoft\WindowsXaml\v$(VisualStudioVersion)\Microsoft.Windows.UI.Xaml.CSharp.targets" />
   <ItemGroup>
     <UnprocessedFile Include="$(ProjectDir)Unprocessed\*" />
